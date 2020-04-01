@@ -10,6 +10,10 @@ Shortcuts app is use to export health data. Unfortunetely Apple doesn't provide 
 
 See [Shurtcuts User Guide](https://support.apple.com/en-gb/guide/shortcuts/welcome/ios) for further details.
 
+## Firestore Preview
+
+![Firestore Preview](./firestore-preview.jpg)
+
 ---
 
 ## Prerequisites
