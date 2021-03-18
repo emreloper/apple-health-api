@@ -34,7 +34,7 @@ Before starting to use this project you need to do some manual work. Please see 
 
 ```bash
 # Clone the project
-git clone git@github.com:emreloper/apple-health-api.git
+git clone git@github.com:emreyilmaz7c6/apple-health-api.git
 
 # Go to project folder
 cd apple-health-app
